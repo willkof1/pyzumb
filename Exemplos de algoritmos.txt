@@ -1,0 +1,15 @@
+Exemplos de algoritmos
+
+*** Arrumar a cama
+
+1.0	pegar o lençol
+1.1 esticar sobre a cama
+
+*** Fazer uma ligação telefônica a partir de um SmartPhone
+
+1.0 pegar o smartphone
+1.1 tem bateria
+1.2 possui sinal da operadora
+1.3 abra o app de ligação
+1.4 digite o numero que vc quer ligar
+1.5 efetue a ligação
